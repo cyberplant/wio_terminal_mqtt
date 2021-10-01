@@ -1,0 +1,14 @@
+clear
+setRotation|1
+setTextSize|1
+drawString|hello world|3|3
+setTextSize|2
+drawString|hello world|3|20
+setTextSize|3
+drawString|hello world|3|50
+setTextSize|4
+drawString|hello world|3|80
+setTextSize|5
+drawString|hello world|3|120
+setTextSize|6
+drawString|hello world|3|170

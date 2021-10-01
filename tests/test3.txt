@@ -1,0 +1,11 @@
+clear
+setRotation|1
+setTextSize|1
+drawString|hello world|3|5
+drawFastHLine|1|1|320|RED
+drawFastHLine|1|237|320|RED
+drawFastVLine|1|1|239|RED
+drawFastVLine|319|1|239|RED
+
+fillRect|250|210|70|20|DARKGREEN
+drawString|Works fine|255|216
