@@ -10,6 +10,10 @@ Some example files and the output on the Wio Terminal:
 - [test2](tests/test2.txt) ![test2](/tests/test2.jpeg)
 - [test3](tests/test3.txt) ![test3](/tests/test3.jpeg)
 
+Using this library and Home Assistant I was able to build this simple screen to show status of different entities at my home:
+
+- ![screen.jpeg](/screen.jpeg)
+
 # Needed libraries
 - Seeed Arduino rpcUnified
 - Seeed Arduino rpcWiFi
